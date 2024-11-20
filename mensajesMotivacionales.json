@@ -1,0 +1,260 @@
+{
+    "mensajes": [
+      {
+        "rango_audios": [0, 1],
+        "mensaje": "¡Qué buen comienzo! Cada fonema es un paso importante. ¡Sigue practicando!",
+        "mensaje_condiciones": "Sabemos que el inicio no es fácil, pero cada fonema que grabas es un gran logro. ¡Sigue así!"
+      },
+      {
+        "rango_audios": [0, 1],
+        "mensaje": "¡Excelente inicio! Estás en el camino correcto. Sigue practicando, ¡lo estás haciendo muy bien!",
+        "mensaje_condiciones": "El comienzo siempre es el reto más grande. ¡Sigue avanzando, estás logrando mucho!"
+      },
+      {
+        "rango_audios": [0, 1],
+        "mensaje": "¡Qué bien que has comenzado! Cada fonema que grabas te acerca a tu objetivo. ¡Sigue grabando!",
+        "mensaje_condiciones": "No te preocupes por los desafíos, cada fonema es un paso más cerca del éxito. ¡Sigue adelante!"
+      },
+      {
+        "rango_audios": [0, 1],
+        "mensaje": "¡Muy buen inicio! Cada fonema es una victoria, ¡continúa practicando!",
+        "mensaje_condiciones": "Es normal que al principio todo sea difícil, pero lo importante es seguir. ¡Estás haciendo un gran trabajo!"
+      },
+      {
+        "rango_audios": [0, 1],
+        "mensaje": "¡Sigue con ese ritmo! El primer paso es el más importante, y lo estás dando. ¡Genial trabajo!",
+        "mensaje_condiciones": "Sabemos que cada fonema puede ser un desafío, pero tu perseverancia es admirable. ¡No te detengas!"
+      },
+      {
+        "rango_audios": [1, 2],
+        "mensaje": "¡Estás en el camino correcto! Cada grabación te acerca más a tu meta. ¡Sigue así!",
+        "mensaje_condiciones": "Es normal que al principio sea desafiante, pero cada fonema te está acercando más a tu objetivo. ¡Sigue adelante!"
+      },
+      {
+        "rango_audios": [1, 2],
+        "mensaje": "¡Qué bien vas! Cada grabación cuenta. ¡Sigue practicando, estás mejorando cada vez más!",
+        "mensaje_condiciones": "Aunque te parezca difícil, sigue grabando. ¡Lo estás haciendo muy bien, no te detengas!"
+      },
+      {
+        "rango_audios": [1, 2],
+        "mensaje": "¡Vas fenomenal! Cada fonema es una oportunidad de mejorar. ¡Sigue grabando!",
+        "mensaje_condiciones": "Sabemos que al principio es difícil, pero tu esfuerzo está llevando a grandes resultados. ¡Sigue adelante!"
+      },
+      {
+        "rango_audios": [1, 2],
+        "mensaje": "¡Muy bien! Estás avanzando con cada grabación. Cada fonema te acerca más a tu objetivo. ¡Sigue así!",
+        "mensaje_condiciones": "El camino es largo, pero tu dedicación se nota. ¡Continúa luchando, lo estás haciendo muy bien!"
+      },
+      {
+        "rango_audios": [1, 2],
+        "mensaje": "¡Impresionante! Cada grabación te hace avanzar más. ¡Sigue practicando, lo estás haciendo excelente!",
+        "mensaje_condiciones": "Tu esfuerzo y dedicación están dando frutos. ¡No te detengas ahora, sigue así!"
+      },
+      {
+        "rango_audios": [2, 3],
+        "mensaje": "¡Vas genial! El progreso es evidente. Cada fonema que grabas te acerca a tu meta. ¡Sigue practicando!",
+        "mensaje_condiciones": "Aunque el camino es desafiante, tu esfuerzo se nota. ¡Sigue luchando, vas muy bien!"
+      },
+      {
+        "rango_audios": [2, 3],
+        "mensaje": "¡Excelente trabajo! Cada fonema es un paso más cerca de tu meta. ¡No pares ahora!",
+        "mensaje_condiciones": "Sabemos que estás trabajando duro. Cada fonema grabado es una victoria. ¡Sigue así!"
+      },
+      {
+        "rango_audios": [2, 3],
+        "mensaje": "¡Muy bien! Sigue grabando, cada fonema te está acercando a tu objetivo. ¡Sigue practicando!",
+        "mensaje_condiciones": "Esfuerzo y dedicación te han llevado hasta aquí. ¡Sigue avanzando, estás progresando muy bien!"
+      },
+      {
+        "rango_audios": [2, 3],
+        "mensaje": "¡Increíble! Cada grabación muestra tu dedicación. ¡Sigue adelante, vas muy bien!",
+        "mensaje_condiciones": "A pesar de los desafíos, tu esfuerzo te está acercando a la mejora. ¡Sigue luchando!"
+      },
+      {
+        "rango_audios": [2, 3],
+        "mensaje": "¡Qué bien lo estás haciendo! Cada fonema es una oportunidad para mejorar. ¡Sigue practicando!",
+        "mensaje_condiciones": "Sabemos que no es fácil, pero tu esfuerzo está dando frutos. ¡Sigue adelante!"
+      },
+      {
+        "rango_audios": [3, 4],
+        "mensaje": "¡Estás avanzando mucho! Cada grabación te acerca más a tu objetivo. ¡No pares!",
+        "mensaje_condiciones": "El camino puede ser largo, pero cada fonema que grabas es una victoria. ¡Sigue luchando!"
+      },
+      {
+        "rango_audios": [3, 4],
+        "mensaje": "¡Fantástico! El progreso es claro, sigue practicando, ¡lo estás haciendo excelente!",
+        "mensaje_condiciones": "Estamos viendo cómo te esfuerzas y avanzas. ¡No pares ahora, sigue adelante!"
+      },
+      {
+        "rango_audios": [3, 4],
+        "mensaje": "¡Qué buen progreso! Cada fonema grabado muestra lo bien que lo estás haciendo. ¡Sigue así!",
+        "mensaje_condiciones": "Sabemos que a veces es difícil, pero tu dedicación te está llevando lejos. ¡Sigue adelante!"
+      },
+      {
+        "rango_audios": [3, 4],
+        "mensaje": "¡Vas increíblemente bien! Cada fonema es una muestra de tu esfuerzo. ¡Sigue grabando!",
+        "mensaje_condiciones": "Tu constancia y trabajo son notables. ¡Continúa luchando, estás logrando mucho!"
+      },
+      {
+        "rango_audios": [3, 4],
+        "mensaje": "¡Gran trabajo! Cada fonema es un paso más cerca de tu meta. ¡No te detengas!",
+        "mensaje_condiciones": "Aunque sea desafiante, lo estás logrando. ¡Sigue avanzando, estás haciendo un gran trabajo!"
+      },
+      {
+        "rango_audios": [4, 5],
+        "mensaje": "¡Sigue así! El progreso es visible y cada fonema te acerca más a tu meta. ¡Estás haciendo un gran trabajo!",
+        "mensaje_condiciones": "Sabemos que no ha sido fácil, pero cada fonema grabado es un gran logro. ¡Sigue adelante!"
+      },
+      {
+        "rango_audios": [4, 5],
+        "mensaje": "¡Estás avanzando a pasos agigantados! Cada grabación te acerca a tu meta. ¡Sigue practicando!",
+        "mensaje_condiciones": "Lo que estás logrando es admirable. ¡Sigue luchando, estás demostrando gran fortaleza!"
+      },
+      {
+        "rango_audios": [4, 5],
+        "mensaje": "¡Increíble! El esfuerzo está dando frutos. Cada fonema grabado es un testamento de tu progreso. ¡Sigue así!",
+        "mensaje_condiciones": "Aunque el camino es largo, tu dedicación está llevando a grandes resultados. ¡No pares ahora!"
+      },
+      {
+        "rango_audios": [4, 5],
+        "mensaje": "¡Sigue practicando! Cada fonema es una oportunidad para mejorar. ¡Vas muy bien!",
+        "mensaje_condiciones": "Sabemos que es un reto, pero tu esfuerzo está dando frutos. ¡Continúa luchando, va a valer la pena!"
+      },
+      {
+        "rango_audios": [4, 5],
+        "mensaje": "¡Bien hecho! Estás avanzando mucho. Cada fonema grabado te acerca más a tu objetivo. ¡Sigue así!",
+        "mensaje_condiciones": "No te rindas, lo estás logrando. Cada fonema es un paso más cerca de tu meta. ¡Sigue adelante!"
+      },
+      {
+        "rango_audios": [5, 6],
+        "mensaje": "¡Excelente! El progreso es claro, sigue practicando y verás los resultados. ¡No pares!",
+        "mensaje_condiciones": "Tu esfuerzo es evidente. Sigue luchando, cada fonema es un paso hacia tu meta."
+      },
+      {
+        "rango_audios": [5, 6],
+        "mensaje": "¡Sigue así! Cada grabación te acerca más a tu meta. ¡Vas por buen camino!",
+        "mensaje_condiciones": "Aunque el camino sea largo, tu esfuerzo está dando frutos. ¡Sigue luchando!"
+      },
+      {
+        "rango_audios": [5, 6],
+        "mensaje": "¡Estás haciendo un gran trabajo! El progreso es evidente, cada fonema grabado te acerca a tu objetivo.",
+        "mensaje_condiciones": "Sabemos que no es fácil, pero sigues avanzando. ¡Sigue practicando, lo estás haciendo muy bien!"
+      },
+      {
+        "rango_audios": [5, 6],
+        "mensaje": "¡Vas excelente! Sigue practicando, cada fonema es un paso más cerca de tu meta.",
+        "mensaje_condiciones": "Tu esfuerzo está rindiendo frutos. ¡No te detengas ahora!"
+      },
+      {
+        "rango_audios": [5, 6],
+        "mensaje": "¡Sigue grabando! Estás haciendo progresos impresionantes. Cada fonema grabado muestra tu dedicación.",
+        "mensaje_condiciones": "A pesar de las dificultades, cada fonema te acerca más a tu objetivo. ¡Continúa!"
+      },
+      {
+        "rango_audios": [6, 7],
+        "mensaje": "¡Increíble! Cada grabación muestra tu dedicación. ¡Sigue adelante, vas muy bien!",
+        "mensaje_condiciones": "A pesar de los desafíos, tu esfuerzo te está acercando a la mejora. ¡Sigue luchando!"
+      },
+      {
+        "rango_audios": [6, 7],
+        "mensaje": "¡Qué bien lo estás haciendo! Cada fonema es una oportunidad para mejorar. ¡Sigue practicando!",
+        "mensaje_condiciones": "Sabemos que no es fácil, pero tu esfuerzo está dando frutos. ¡Sigue adelante!"
+      },
+      {
+        "rango_audios": [6, 7],
+        "mensaje": "¡Estás haciendo un gran trabajo! Cada fonema grabado es una victoria. ¡No pares ahora!",
+        "mensaje_condiciones": "Sabemos que el progreso no siempre es rápido, pero lo que importa es que sigues avanzando. ¡Sigue luchando!"
+      },
+      {
+        "rango_audios": [6, 7],
+        "mensaje": "¡Qué increíble progreso! Cada fonema es una oportunidad para aprender más. ¡Sigue practicando!",
+        "mensaje_condiciones": "La perseverancia es clave, y tú lo estás demostrando. ¡Sigue así!"
+      },
+      {
+        "rango_audios": [6, 7],
+        "mensaje": "¡Impresionante! Cada grabación refleja tu esfuerzo. ¡No pares, sigue practicando!",
+        "mensaje_condiciones": "Tu dedicación está llevando a grandes resultados. ¡Continúa luchando!"
+      },
+      {
+        "rango_audios": [7, 8],
+        "mensaje": "¡Qué bien lo estás haciendo! Cada fonema es una oportunidad para mejorar. ¡Sigue practicando!",
+        "mensaje_condiciones": "Sabemos que no es fácil, pero tu esfuerzo está dando frutos. ¡Sigue adelante!"
+      },
+      {
+        "rango_audios": [7, 8],
+        "mensaje": "¡Qué increíble trabajo! Cada grabación te acerca más a tu objetivo. ¡Sigue así!",
+        "mensaje_condiciones": "A pesar de los obstáculos, cada fonema es una victoria. ¡Sigue avanzando!"
+      },
+      {
+        "rango_audios": [7, 8],
+        "mensaje": "¡Excelente! Cada fonema te acerca más a tu meta. ¡No pares ahora!",
+        "mensaje_condiciones": "Aunque haya desafíos, tu esfuerzo está pagando. ¡Sigue adelante!"
+      },
+      {
+        "rango_audios": [7, 8],
+        "mensaje": "¡Bien hecho! Cada fonema grabado te acerca más a tu objetivo. ¡Sigue practicando!",
+        "mensaje_condiciones": "Lo que has logrado hasta ahora es impresionante. ¡No te detengas!"
+      },
+      {
+        "rango_audios": [7, 8],
+        "mensaje": "¡Fantástico! El progreso es evidente, sigue grabando, ¡lo estás haciendo excelente!",
+        "mensaje_condiciones": "Estamos viendo cómo te esfuerzas y avanzas. ¡No pares ahora, sigue adelante!"
+      },
+      {
+        "rango_audios": [8, 9],
+        "mensaje": "¡Estás avanzando mucho! Cada grabación te acerca más a tu objetivo. ¡No pares!",
+        "mensaje_condiciones": "El camino puede ser largo, pero cada fonema que grabas es una victoria. ¡Sigue luchando!"
+      },
+      {
+        "rango_audios": [8, 9],
+        "mensaje": "¡Fantástico! El progreso es claro, sigue practicando, ¡lo estás haciendo excelente!",
+        "mensaje_condiciones": "Estamos viendo cómo te esfuerzas y avanzas. ¡No pares ahora, sigue adelante!"
+      },
+      {
+        "rango_audios": [8, 9],
+        "mensaje": "¡Increíble! El esfuerzo está dando frutos. Cada fonema grabado es un testamento de tu progreso. ¡Sigue así!",
+        "mensaje_condiciones": "Aunque el camino es largo, tu dedicación está llevando a grandes resultados. ¡No pares ahora!"
+      },
+      {
+        "rango_audios": [8, 9],
+        "mensaje": "¡Gran trabajo! Cada fonema es un paso más cerca de tu meta. ¡No te detengas!",
+        "mensaje_condiciones": "Aunque sea desafiante, lo estás logrando. ¡Sigue avanzando, estás haciendo un gran trabajo!"
+      },
+      {
+        "rango_audios": [8, 9],
+        "mensaje": "¡Qué bien vas! Cada fonema grabado es un paso más cerca de tu meta. ¡Sigue así!",
+        "mensaje_condiciones": "Sabemos que el camino no es fácil, pero tu dedicación está llevando a grandes resultados. ¡Sigue luchando!"
+      },
+      {
+        "rango_audios": [9, 10],
+        "mensaje": "¡Fantástico! El progreso es claro, sigue practicando, ¡lo estás haciendo excelente!",
+        "mensaje_condiciones": "Estamos viendo cómo te esfuerzas y avanzas. ¡No pares ahora, sigue adelante!"
+      },
+      {
+        "rango_audios": [9, 10],
+        "mensaje": "¡Increíble! El esfuerzo está dando frutos. Cada fonema grabado es un testamento de tu progreso. ¡Sigue así!",
+        "mensaje_condiciones": "Aunque el camino es largo, tu dedicación está llevando a grandes resultados. ¡No pares ahora!"
+      },
+      {
+        "rango_audios": [9, 10],
+        "mensaje": "¡Gran trabajo! Cada fonema es un paso más cerca de tu meta. ¡No te detengas!",
+        "mensaje_condiciones": "Aunque sea desafiante, lo estás logrando. ¡Sigue avanzando, estás haciendo un gran trabajo!"
+      },
+      {
+        "rango_audios": [9, 10],
+        "mensaje": "¡Excelente! Cada fonema te acerca más a tu meta. ¡Sigue así!",
+        "mensaje_condiciones": "A pesar de las dificultades, tu esfuerzo te está acercando a la mejora. ¡Sigue luchando!"
+      },
+      {
+        "rango_audios": [9, 10],
+        "mensaje": "¡Vas increíblemente bien! Cada fonema grabado es una muestra de tu esfuerzo. ¡Sigue practicando!",
+        "mensaje_condiciones": "Tu constancia y trabajo son notables. ¡Continúa luchando, estás logrando mucho!"
+      },
+      {
+        "rango_audios": [10, 1000],
+        "mensaje": "¡Gran trabajo! Sigue así, cada fonema grabado muestra el esfuerzo y dedicación que has puesto. ¡Sigue practicando!",
+        "mensaje_condiciones": "Sabemos que no ha sido fácil, pero tu perseverancia te está llevando muy lejos. ¡Continúa luchando!"
+      }
+    ]
+  }
+  
