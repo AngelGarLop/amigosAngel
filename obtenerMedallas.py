@@ -12,7 +12,7 @@ coleccion_medallas = db["medallas"]
 coleccion_usuarios = db["usuarios"]
 
 # Obtener las medallas desde la colección
-medallas_documento = coleccion_medallas.find_one({"_id": ObjectId("6750a616a8a21306c000d933")})
+medallas_documento = coleccion_medallas.find_one({"_id": ObjectId("6759e2b59e55e3d6a8b7e7d0")})
 
 def asignar_medallas(cant_audios):
     medallas_asignadas = []
